@@ -1,0 +1,179 @@
+#imgdiv{
+    background-color: rgb(95, 221, 200);
+    width: 100%;
+    height: 90vh;
+    background-image: url(model.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    position: cover;
+    
+}
+h1{
+    text-transform: uppercase;
+}
+h3{
+    color: #4b4b4a;
+}
+#anchor{
+    color: #B99470;
+
+}
+#titlediv{
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    width: 300px;
+    position: relative;
+    left: 35%;
+    bottom: 210px;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    bottom: 250px;
+
+}
+#templatediv{
+    background-color: #B99470;
+    width: 170px;
+    height: 30px;
+    padding: 10px;
+    margin: 50px;
+    position: relative;
+    bottom: 40px;
+    text-align: center;
+    line-height: 30px;
+    
+}
+a{
+    text-decoration: none;
+    
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+    
+}
+.list{
+    text-transform: none;
+    display: inline-block;
+    padding: 15px;
+    position: relative;
+    left: 300px;
+    bottom: 42px;
+}
+#word{
+    position: relative;
+    right:505px ;
+    top: 2px ;
+    font-size: xx-large;
+    color: #B99470;
+}
+#navdiv{
+    width: 80%;
+    height: 70px;
+    display: inline-block;
+    background-color: #FEFAE0;
+    position: relative;
+    bottom: 800px;
+    left: 150px;
+    text-align: center;
+}
+
+#div2{
+    text-align: center;
+    position: relative;
+    bottom: 350px;
+
+}
+.subdivs{
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    margin: 20px;
+}
+#fdiv{
+    background-color: #FFEFE8 ;
+}
+#sdiv{
+    background-color: #B99470;
+}
+#tdiv{
+    background-color: #E48F45;
+}
+#fodiv{
+    background-color: #FEFAE0;
+}
+
+
+#divblocks{
+    position: relative;
+    bottom: 340px;
+    text-align: center;
+}
+
+#div3{
+    text-align: center;
+    position: relative;
+    bottom: 300px;
+}
+
+.imgdiv2{
+    background-color: aqua;
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+    
+}
+#lastdiv{
+    text-align: center;
+    position: relative;
+    bottom: 260px;
+}
+#img1{
+    background-image: url(08tmag-models-slide-9EPC-superJumbo.jpg);
+    background-position: cover;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#img2{
+    background-image: url(5-must-have-mens-watches-part-I-mast1-m.jpg);
+    background-position: cover;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#img3{
+    background-image: url(Handsome-Male-Model-Watch-800x1199.jpg);
+    background-position: cover;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#img4{
+    background-image: url(istockphoto-1136669387-612x612.jpg);
+    background-position: cover;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#img5{
+    background-image: url(istockphoto-486138995-612x612.jpg);
+    background-position: cover;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#img6{
+    background-image: url(istockphoto-626385918-612x612.jpg);
+    background-position: cover;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#img7{
+    background-image: url(men-66-320x320.jpg);
+    background-position: cover;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#img8{
+    background-image: url(NYFW-750x800mobile-mast.jpg);
+    background-position: cover;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
